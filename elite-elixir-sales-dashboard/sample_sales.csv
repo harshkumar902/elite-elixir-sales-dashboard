@@ -1,0 +1,6 @@
+date,order_id,channel,product,quantity,unit_price,discount
+2026-10-01,EE001,Shopify,Hawas,1,1200,100
+2026-10-02,EE002,Amazon,Sauvage,2,1200,0
+2026-10-03,EE003,Myntra,Black Phantom,1,1200,200
+2026-10-04,EE004,Shopify,Oud Wood,1,1200,0
+2026-10-05,EE005,Shopify,Hawas,2,1200,150
